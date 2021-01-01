@@ -1,7 +1,7 @@
-### Opa, tudo certo? 👋
+# Opa, tudo certo? 👋
 
 
-**Enfim 2021** ✨ 
+**Enfim, chegamos ao 2021** ✨ \
 _Este ano estou com a meta de fazer pelo menos 1 contribuição por dia_
 
 # Sobre mim

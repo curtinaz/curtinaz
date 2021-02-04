@@ -3,7 +3,7 @@
 
 **Enfim, chegamos ao 2021** ✨ \
 _Este ano estou com a meta de fazer pelo menos 1 contribuição por dia_\
-Estou desenvolvendo a 38 dias seguidos.
+Estou desenvolvendo a 39 dias seguidos.
 
 ## Sobre mim
 

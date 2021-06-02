@@ -7,5 +7,5 @@ Estou desenvolvendo a (perdi a conta) dias seguidos.
 
 ## Sobre mim
 
-  > **21 anos**, estudante de **Análise e Desenvolvimento de Sistemas** no **IFSUL**, campus Gravataí.\
+  > **22 anos**, estudante de **Análise e Desenvolvimento de Sistemas** no **IFSUL**, campus Gravataí.\
   > Ultimamente, fora o **frontend**, só tenho estudado **javascript** e seus frameworks. É isso.

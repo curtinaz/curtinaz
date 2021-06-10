@@ -12,7 +12,6 @@ Estou desenvolvendo a (perdi a conta) dias seguidos.
 
 \
  
-\
  
 ## Ultimos projetos
 

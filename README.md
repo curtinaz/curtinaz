@@ -11,8 +11,9 @@ Estou desenvolvendo a (perdi a conta) dias seguidos.
   > Ultimamente, fora o **frontend**, só tenho estudado **javascript** e seus frameworks. É isso.
 
 \
-
-
+ 
+\
+ 
 ## Ultimos projetos
 
 ### Afiliatto

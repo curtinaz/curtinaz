@@ -8,7 +8,7 @@ Estou desenvolvendo a (perdi a conta) dias seguidos.
 ## Sobre mim
 
   > **23 anos**, estudante de **Análise e Desenvolvimento de Sistemas** no **IFSUL**, campus Gravataí.\
-  > Ultimamente, fora o **frontend**, só tenho estudado **javascript** e seus frameworks. É isso.
+  > Por muito tempo, só estudei **javascript** e seus frameworks, porém, tive contato recente com o php e acabei gostando.
 
   
  

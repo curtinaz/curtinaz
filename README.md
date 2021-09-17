@@ -8,7 +8,7 @@ _Este ano estou com a meta de fazer pelo menos 1 contribuição por dia_\
 ## Sobre mim
 
   > **23 anos**, estudante de **Análise e Desenvolvimento de Sistemas** no **IFSUL**, campus Gravataí.\
-  > Atualmente, sou programador PHP Pleno e líder de projetos na Cinética.
+  > Atualmente, sou programador PHP Pleno.
  
 ## Ultimos projetos
 

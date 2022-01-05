@@ -1,14 +1,15 @@
 # Opa, tudo certo? 👋
 
 
-**Enfim, chegamos ao 2021** ✨ \
-_Este ano estou com a meta de fazer pelo menos 1 contribuição por dia_\
-(até agora estamos mantendo firme a meta) kkkkk
+**Enfim, chegamos ao 2022** ✨ \
+Ano passado, minha meta foi codar ABSOLUTAMENTE todos os dias, e eu consegui.
+Este ano, minha meta será expandir o meu repertório de tecnologias.
+Este ano, irei aprender Node.JS plenamente.
 
 ## Sobre mim
 
   > **23 anos**, estudante de **Análise e Desenvolvimento de Sistemas** no **IFSUL**, campus Gravataí.\
-  > Atualmente, sou desenvolvedor PHP Pleno.
+  > Atualmente, sou desenvolvedor PHP Pleno na Cinética em transição para Senior
  
 ## Ultimos projetos
 

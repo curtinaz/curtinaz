@@ -4,7 +4,7 @@
 **Enfim, chegamos ao 2022** ✨ \
 Ano passado, minha meta foi codar ABSOLUTAMENTE todos os dias, e eu consegui.
 Este ano, minha meta será expandir o meu repertório de tecnologias.
-Este ano, irei aprender Node.JS plenamente.
+Este ano, irei aprender Node.JS e Laravel plenamente.
 
 ## Sobre mim
 

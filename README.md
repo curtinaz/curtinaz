@@ -8,7 +8,7 @@ Este ano, minha meta será expandir o meu repertório de tecnologias.
 ## Sobre mim
 
   > **24 anos**, estudante de **Análise e Desenvolvimento de Sistemas** no **IFSUL**, campus Gravataí.\
-  > Atualmente, sou desenvolvedor PHP Pleno na Cinética em transição para Senior.
+  > Atualmente, sou desenvolvedor backend na Meeg.
  
 ## Ultimos projetos
 

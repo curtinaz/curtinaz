@@ -2,9 +2,9 @@
 
 
 **Enfim, chegamos ao ano de 2023** ✨ \
-Conquistei muita coisa ano passado.  \
+Conquistei muita coisa no ano passado.  \
 Pela primeira vez fui o principal responsável em projetos grandes.  \
-Me aventurei em novas tecnologias e desafios. Este ano será ainda melhor.  \
+Me aventurei em novas tecnologias e desafios. Este ano será ainda melhor.  
 
 ## Sobre mim
 

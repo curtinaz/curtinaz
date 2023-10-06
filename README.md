@@ -8,7 +8,7 @@ Me aventurei em novas tecnologias e desafios. Este ano será ainda melhor.
 
 ## Sobre mim
 
-  > **24 anos**, estudante de **Análise e Desenvolvimento de Sistemas** no **IFSUL**, campus Gravataí.\
+  > **25 anos**, estudante de **Análise e Desenvolvimento de Sistemas** no **IFSUL**, campus Gravataí.\
   > Atualmente, sou desenvolvedor backend na Meeg.
  
 ## Principais projetos

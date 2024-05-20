@@ -8,5 +8,5 @@ A Pepper facilita todo o processo de vendas e entrega de produtos digitais. Desd
 ### [Pepperzap](https://pepperzap.com)
 A Pepperzap resolve uma dor dos produtores de plataformas de venda de infoprodutos. Com a Converzap você pode entrar em contato com o cliente através do Whatsapp.
 
-### [PepperMembers](https://lp.peppermembers.com/)
-A PepperMembers oferece uma área de membros no estilo Netflix para infoprodutos.
+### [Pepper Members](https://lp.peppermembers.com/)
+A Pepper Members oferece uma área de membros no estilo Netflix para infoprodutos.
